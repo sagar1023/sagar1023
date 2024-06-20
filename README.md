@@ -8,7 +8,7 @@ My journey has been marked by a relentless pursuit of excellence in Engineering 
 
 💻 My Tech Stack: 
 Diving deep into Python, I've mastered data manipulation with Pandas, geospatial analysis with Geopy, optimization with Pulp, and data visualization with Matplotlib & SciPy. 
-Beyond Python, my technical toolkit spans across cloud platforms, database management,R Programming and a variety of analytics tools such as Tableau, Power BI, ready to tackle the challenges of today and tomorrow.
+Beyond Python, my technical toolkit spans across cloud platforms, database management,R Programming and a variety of analytics tools such as Tableau, Power BI, JMP Pro ready to tackle the challenges of today and tomorrow.
 
 ♟ Beyond Code: 
 Chess is my metaphor for life – strategic, challenging, and immensely rewarding. This passion has sharpened my analytical thinking and decision-making skills, directly influencing my professional approach. 
