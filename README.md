@@ -19,7 +19,7 @@ My commitment extends beyond the professional sphere. I'm passionate about givin
 and supporting global health through the Accenture COVID Warrior unit. It's about making an impact, one move at a time.
 
 🔗 Let's Connect!
-Whether it's collaborating on a project, discussing the latest in technology and chess, or exploring avenues for social impact, 
+Whether it's collaborating on a project, discussing about the latest technology, play chess, or exploring avenues for social impact, 
 I'm eager to connect with fellow professionals, developers, and chess enthusiasts alike. Let's make a difference, together.
 
 📫 You can reach me via Email : sagar1023.sr@gmail.com
