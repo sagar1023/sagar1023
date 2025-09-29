@@ -24,7 +24,7 @@ I'm eager to connect with fellow professionals, developers, and chess enthusiast
 
 📫 You can reach me via Email : sagar1023.sr@gmail.com
 
-🌱 I’m currently learning Julia and MATLAB for supply chain optimization
+🌱 I’m currently learning RAG, LangChain, Julia and MATLAB for supply chain optimization
 
 
 
